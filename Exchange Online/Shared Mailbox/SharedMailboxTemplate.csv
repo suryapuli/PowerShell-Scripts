@@ -1,0 +1,8 @@
+UserPrincipalName,SharedMailboxID,PermissionType,Action
+user@domain.com,sharedmailbox@domain.com,FullAccess,Add
+user@domain.com,sharedmailbox@domain.com,SendAs,Add
+user@domain.com,sharedmailbox@domain.com,SendOnBehalf,Add
+user@domain.com,sharedmailbox@domain.com,FullAccess,Remove
+user@domain.com,sharedmailbox@domain.com,SendAs,Remove
+user@domain.com,sharedmailbox@domain.com,SendOnBehalf,Remove
+,,,
