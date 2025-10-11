@@ -1,0 +1,5 @@
+Action,LinkType,M365GroupEmails,UserEmail
+Add,Members,M365Group@domain.com,user1@domain.com
+Add,Owners,M365Group@domain.com,user1@domain.com
+Remove,Members,M365Group@domain.com,user1@domain.com
+Remove,Owners,M365Group@domain.com,user1@domain.com
