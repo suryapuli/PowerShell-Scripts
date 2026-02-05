@@ -1,3 +1,0 @@
-UserPrincipalName,DistributionGroupID,PermissionType,Action,
-user@domain.com,disrtibutionlist@domain.com,Owner,Replace,Note: This will replace with existing ones
-user@domain.com,disrtibutionlist@domain.com,Member,Replace,

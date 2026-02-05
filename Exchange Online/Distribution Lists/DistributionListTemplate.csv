@@ -1,5 +1,0 @@
-UserPrincipalName,DistributionGroupID,PermissionType,Action
-user@domain.com,disrtibutionlist@domain.com,Member,Add
-user@domain.com,disrtibutionlist@domain.com,Owner,Add
-user@domain.com,disrtibutionlist@domain.com,Member,Remove
-user@domain.com,disrtibutionlist@domain.com,Owner,Remove
